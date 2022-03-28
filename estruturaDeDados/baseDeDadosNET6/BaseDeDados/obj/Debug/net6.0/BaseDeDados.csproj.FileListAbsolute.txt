@@ -1,0 +1,15 @@
+/home/oliverlucas/Desktop/BaseDeDados/Net6.1/BaseDeDados/bin/Debug/net6.0/BaseDeDados
+/home/oliverlucas/Desktop/BaseDeDados/Net6.1/BaseDeDados/bin/Debug/net6.0/BaseDeDados.deps.json
+/home/oliverlucas/Desktop/BaseDeDados/Net6.1/BaseDeDados/bin/Debug/net6.0/BaseDeDados.runtimeconfig.json
+/home/oliverlucas/Desktop/BaseDeDados/Net6.1/BaseDeDados/bin/Debug/net6.0/BaseDeDados.dll
+/home/oliverlucas/Desktop/BaseDeDados/Net6.1/BaseDeDados/bin/Debug/net6.0/BaseDeDados.pdb
+/home/oliverlucas/Desktop/BaseDeDados/Net6.1/BaseDeDados/obj/Debug/net6.0/BaseDeDados.csproj.AssemblyReference.cache
+/home/oliverlucas/Desktop/BaseDeDados/Net6.1/BaseDeDados/obj/Debug/net6.0/BaseDeDados.GeneratedMSBuildEditorConfig.editorconfig
+/home/oliverlucas/Desktop/BaseDeDados/Net6.1/BaseDeDados/obj/Debug/net6.0/BaseDeDados.AssemblyInfoInputs.cache
+/home/oliverlucas/Desktop/BaseDeDados/Net6.1/BaseDeDados/obj/Debug/net6.0/BaseDeDados.AssemblyInfo.cs
+/home/oliverlucas/Desktop/BaseDeDados/Net6.1/BaseDeDados/obj/Debug/net6.0/BaseDeDados.csproj.CoreCompileInputs.cache
+/home/oliverlucas/Desktop/BaseDeDados/Net6.1/BaseDeDados/obj/Debug/net6.0/BaseDeDados.dll
+/home/oliverlucas/Desktop/BaseDeDados/Net6.1/BaseDeDados/obj/Debug/net6.0/refint/BaseDeDados.dll
+/home/oliverlucas/Desktop/BaseDeDados/Net6.1/BaseDeDados/obj/Debug/net6.0/BaseDeDados.pdb
+/home/oliverlucas/Desktop/BaseDeDados/Net6.1/BaseDeDados/obj/Debug/net6.0/BaseDeDados.genruntimeconfig.cache
+/home/oliverlucas/Desktop/BaseDeDados/Net6.1/BaseDeDados/obj/Debug/net6.0/ref/BaseDeDados.dll
