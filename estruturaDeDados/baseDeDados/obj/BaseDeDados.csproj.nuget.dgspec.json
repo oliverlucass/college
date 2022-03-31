@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/oliverlucas/Desktop/BaseDeDados/Net6.1/BaseDeDados/BaseDeDados.csproj": {}
+    "/home/oliverlucas/Documents/Github/college/estruturaDeDados/baseDeDados/BaseDeDados.csproj": {}
   },
   "projects": {
-    "/home/oliverlucas/Desktop/BaseDeDados/Net6.1/BaseDeDados/BaseDeDados.csproj": {
+    "/home/oliverlucas/Documents/Github/college/estruturaDeDados/baseDeDados/BaseDeDados.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/oliverlucas/Desktop/BaseDeDados/Net6.1/BaseDeDados/BaseDeDados.csproj",
+        "projectUniqueName": "/home/oliverlucas/Documents/Github/college/estruturaDeDados/baseDeDados/BaseDeDados.csproj",
         "projectName": "BaseDeDados",
-        "projectPath": "/home/oliverlucas/Desktop/BaseDeDados/Net6.1/BaseDeDados/BaseDeDados.csproj",
+        "projectPath": "/home/oliverlucas/Documents/Github/college/estruturaDeDados/baseDeDados/BaseDeDados.csproj",
         "packagesPath": "/home/oliverlucas/.nuget/packages/",
-        "outputPath": "/home/oliverlucas/Desktop/BaseDeDados/Net6.1/BaseDeDados/obj/",
+        "outputPath": "/home/oliverlucas/Documents/Github/college/estruturaDeDados/baseDeDados/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/oliverlucas/.nuget/NuGet/NuGet.Config"
